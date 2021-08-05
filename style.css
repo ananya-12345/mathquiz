@@ -1,0 +1,21 @@
+body
+{
+	background-image: url("https://images.unsplash.com/photo-1596495577886-d920f1fb7238?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWF0aHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80");
+}
+h1{
+    color: blue;
+}
+label{
+    color:rgb(61, 11, 241);
+    font-size: 20px;
+    padding-right: 10px;
+}
+#a,#b{
+    border-radius: 10px;
+    background: rgb(201, 250, 181);
+}
+button{
+    border-radius: 25px;
+    background:pink;
+    padding: 10px;
+}
